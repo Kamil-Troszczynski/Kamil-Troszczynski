@@ -1,7 +1,8 @@
 ## ✨ Hi, I’m Kamil.
-I’m passionate about Machine Learning and Artificial Intelligence, and I develop my skills by building hands-on projects.
+ - I’m passionate about Machine Learning and Artificial Intelligence, and I develop my skills by building hands-on projects.
 On this GitHub you’ll find a selection of my work — from experiments to more polished applications.
-Feel free to explore my projects! 🚀
+ - Feel free to explore my projects! 🚀
+ - How to reach me: troszczynskikamil@outlook.com
 <!--
 **Kamil-Troszczynski/Kamil-Troszczynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
