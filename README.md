@@ -3,8 +3,6 @@
 🎯 I develop my skills by building hands-on projects.  
 📫 How to reach me: troszczynskikamil@outlook.com
 
-## 🔗 Check out my work current project
-- [MountainSnap](MountainSnap)
 <!--
 **Kamil-Troszczynski/Kamil-Troszczynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
