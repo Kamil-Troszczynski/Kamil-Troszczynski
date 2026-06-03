@@ -1,5 +1,5 @@
 # Hi, I'm Kamil 👋
-🚀 I’m passionate about **Machine Learning** and **Artificial Intelligence**.  
+🚀 I’m passionate about **Control Systems**, **Machine Learning** and **Artificial Intelligence**.  
 🎯 I develop my skills by building hands-on projects.  
 📫 How to reach me: troszczynskikamil@outlook.com
 
