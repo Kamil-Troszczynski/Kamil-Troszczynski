@@ -1,9 +1,9 @@
 # Hi, I'm Kamil 👋
 
-🚀 I’m passionate about **Control Systems**, **Machine Learning** and **Artificial Intelligence**.
-🤖 Currently working as a **Junior Robotics Software Engineer in the R&D department at JABAMA | Industrial Workstations**.
-🎯 I develop my skills by building hands-on projects.
-📫 How to reach me: [troszczynskikamil@outlook.com](mailto:troszczynskikamil@outlook.com)
+ - 🚀 I’m passionate about **Control Systems**, **Machine Learning** and **Artificial Intelligence**.
+ - 🤖 Currently working as a **Junior Robotics Software Engineer in the R&D department at JABAMA | Industrial Workstations**.
+ - 🎯 I develop my skills by building hands-on projects.
+ - 📫 How to reach me: [troszczynskikamil@outlook.com](mailto:troszczynskikamil@outlook.com)
 
 ## Currently working on a voice agent named **Orion** ⬇️
 
